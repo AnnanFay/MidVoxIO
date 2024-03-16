@@ -1,0 +1,4 @@
+[submodule "voxel-model"]
+	path = test/perf/data/voxel-model
+	url = git@github.com:ephtracy/voxel-model.git
+	shallow = true

@@ -1,0 +1,12 @@
+{
+  "python.analysis.typeCheckingMode": "off",
+  "editor.formatOnSave": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.testing.pytestArgs": [
+    "test"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true
+}

@@ -21,3 +21,8 @@ classifiers = [
 [project.urls]
 "Homepage" = "https://github.com/midstreeeam/MidVoxIO"
 "Bug Tracker" = "https://github.com/midstreeeam/MidVoxIO/issues"
+
+[tool.pytest.ini_options]
+pythonpath = [
+  "src"
+]
